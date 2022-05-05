@@ -1,6 +1,6 @@
-Le Tp est réalisé par :
+Le Tp-1 est réalisé par :
 
-Groupe numero (numero du groupe Inconnu):
+##Groupe numero (numero du groupe Inconnu):
 
 ADANGO Héribert (IM)
 HOUNGBO Serge (IM)
